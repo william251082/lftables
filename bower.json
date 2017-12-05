@@ -1,0 +1,15 @@
+{
+  "name": "rtables",
+  "version": "0.0.1",
+  "description": "Rituals Lovefield Tables and Queries",
+  "main": "lfrituals.html",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "lovefield": "lovefield#master"
+  }
+}
