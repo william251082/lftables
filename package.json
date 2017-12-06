@@ -1,12 +1,15 @@
 {
   "name": "todo",
   "version": "0.0.1",
-  "description": "Quick-start todo example.",
-  "main": "todo.html",
+  "description": "Rituals Lovefield Tables and Queries",
+  "main": "lfrituals.html",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-webserver": "^0.9.1",
     "nopt": "^3.0.4"
+  },
+  "dependencies": {
+    "lovefield": "^2.1.12"
   }
 }
